@@ -1,2 +1,2 @@
 # HMDB_data
-Parser for HMDB database
+A parser for HMDB database
